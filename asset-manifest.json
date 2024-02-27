@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Cal/static/css/main.eb09c589.css",
+    "main.js": "/React_Cal/static/js/main.64c29317.js",
+    "index.html": "/React_Cal/index.html",
+    "main.eb09c589.css.map": "/React_Cal/static/css/main.eb09c589.css.map",
+    "main.64c29317.js.map": "/React_Cal/static/js/main.64c29317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb09c589.css",
+    "static/js/main.64c29317.js"
+  ]
+}
